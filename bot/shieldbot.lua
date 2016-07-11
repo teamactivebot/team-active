@@ -249,7 +249,8 @@ function create_config( )
     "set_type",
     "welcome",
     "sh",
-    "serverinfo"
+    "serverinfo",
+    "supergp"
     },
     sudo_users = {152816907},--Sudo users
     moderation = {data = 'data/moderation.json'},
