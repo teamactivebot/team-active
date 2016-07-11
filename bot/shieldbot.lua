@@ -250,7 +250,15 @@ function create_config( )
     "welcome",
     "sh",
     "serverinfo",
-    "supergp"
+    "supergp",
+    "arz",
+    "AddSudo",
+    "nerkh",
+    "azan",
+    "info2",
+    "me",
+    "news",
+    "date"
     },
     sudo_users = {152816907},--Sudo users
     moderation = {data = 'data/moderation.json'},
